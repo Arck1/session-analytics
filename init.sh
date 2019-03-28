@@ -1,0 +1,1 @@
+mysql --host=$_MYSQL_HOST --user=$_MYSQL_USER --password=$_MYSQL_PASSWORD < init.sql
